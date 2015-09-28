@@ -1,0 +1,12 @@
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\PsegOnlineWcfCommunicationService.dll.config
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\PsegOnlineWcfCommunicationService.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\PsegOnlineWcfCommunicationService.pdb
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\Ftp.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\pcsc-sharp.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\RFID.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\Ftp.xml
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\pcsc-sharp.pdb
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Debug\pcsc-sharp.xml
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\obj\Debug\PsegOnlineWcfCommunicationService.csprojResolveAssemblyReference.cache
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\obj\Debug\PsegOnlineWcfCommunicationService.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\obj\Debug\PsegOnlineWcfCommunicationService.pdb

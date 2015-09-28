@@ -1,0 +1,11 @@
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\PsegOnlineWcfCommunicationService.dll.config
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\PsegOnlineWcfCommunicationService.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\PsegOnlineWcfCommunicationService.pdb
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\Ftp.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\pcsc-sharp.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\RFID.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\Ftp.xml
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\pcsc-sharp.pdb
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\bin\Release\pcsc-sharp.xml
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\obj\Release\PsegOnlineWcfCommunicationService.dll
+C:\Git\PsegOnline\PsegOnlineWcfCommunicationService\obj\Release\PsegOnlineWcfCommunicationService.pdb
